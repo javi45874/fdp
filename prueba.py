@@ -1,1 +1,1 @@
-print("solo estoy probando cosas")
+print("solo estoy probando")
