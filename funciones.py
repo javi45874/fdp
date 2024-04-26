@@ -1,12 +1,20 @@
-def suma(num1, num2):
-    resul=num1+num2
-    return resul
-def resta(num1, num2):
-    resul=num1-num2
-    return resul
+# def suma(num1, num2):
+#     resul=num1+num2
+#     return resul
+# def resta(num1, num2):
+#     resul=num1-num2
+#     return resul
 
-print("Ingrese dos numeros")
-n2=int(input())
-n8=int(input())
-print(suma(n2,n8))
-print(resta(n2,n8))
+def multi (num1,num2,num3):
+    resultado=(num1*num2)-num3
+    return resultado
+
+def division (num1,num2,num3):
+    resultado=(num1/num2)
+    return resultado
+
+print("Ingrese tres numeros")
+num1=int(input())
+num2=int(input())
+num3=int(input())
+print(multi(num1,num2,num3))
