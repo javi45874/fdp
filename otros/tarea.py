@@ -14,15 +14,12 @@
 # print("ingrese su nombre")
 # nombre_alumno=input()
 
-print("ingrese la opc de su carrera")
-carrera=int(input())
+def valor_anual(meses):
+    costomensual=300000
+    vanual=meses*300000
+    return vanual
+    
 
-
-carrera1_sem=8
-carrera2_sem=10
-carrera3_sem=6
-meses_semestre=5
-descuento=0.15
 
 
         
