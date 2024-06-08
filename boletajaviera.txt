@@ -1,0 +1,8 @@
+Bienvenido a supermacado Alegre
+------------------------------
+Producto .........Precio
+Fideos.....$1490
+Pollo asado.....$4920
+------------------------------
+Su subtotal es $6410
+Su total a pagar es $7627.9

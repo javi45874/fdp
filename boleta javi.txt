@@ -1,0 +1,9 @@
+Bienvenido a supermacado Alegre
+------------------------------
+Producto .........Precio
+Fideos.....$1490
+Jugos en cajas.....$1490
+Jamon.....$1490
+------------------------------
+Su subtotal es $5990
+Su total a pagar es $7128.1
