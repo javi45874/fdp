@@ -1,0 +1,34 @@
+Realizar un menú el cual se vea asi
+
+Bienvenido al Parking VIP
+¿que desea hacer?
+1.- Ingresar un vehículo
+2.- Listar vehículos
+3.- Borrar un vehículo
+4.- Conteo de vehículos
+5.- Salir
+
+​En la opción 1 debe aparecer 
+Selecciones el piso al cual quiere ingresar el vehículo
+
+La opción 2 debe aparecer
+1.- Listar todos
+2.- Listar un piso específico
+3.- Volver
+
+La opción 3 debe aparecer
+Ingrese el vehículo a borrar
+
+La opción 4 debe salir
+1.- Mostar cantidad de vehículos en total
+2.- Mostar cantidad de vehículos por piso
+3.- Mostar cantidad de vehículos de un piso
+4.- Volver
+
+Requisitos
+USAR LISTAS
+La torre tiene 4 pisos
+El menú claremente debe ser recursivo
+No se puede ingresar una patente con mas de 6 caracteres
+El ingreso de patentes debe ser con el formato AABB99 0 AA8899
+
